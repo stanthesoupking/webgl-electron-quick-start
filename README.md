@@ -8,9 +8,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/stanthesoupking/webgl-electron-quick-start
+git clone https://github.com/stanthesoupking/webgl-electron-quickstart
 # Go into the repository
-cd webgl-electron-quick-start
+cd webgl-electron-quickstart
 # Install dependencies
 npm install
 # Run the app

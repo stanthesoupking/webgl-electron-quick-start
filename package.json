@@ -1,12 +1,12 @@
 {
-  "name": "webgl-electron-quick-start",
+  "name": "webgl-electron-quickstart",
   "version": "0.1.0",
   "description": "Minimal boilerplate to get WebGL running inside an Electron app",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/stanthesoupking/webgl-electron-quick-start",
+  "repository": "https://github.com/stanthesoupking/webgl-electron-quickstart",
   "keywords": [
     "Electron",
     "quick",
